@@ -6,5 +6,4 @@ Examples:
 - CAD project files
 - BOMs
 - assembly documents
-- code or firmware related to the project
 - notes and supporting resources
