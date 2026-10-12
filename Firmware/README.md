@@ -26,4 +26,4 @@ If Arduino asks to install dependencies, choose Install All.
 
 Open Starbie.ino, press the arrow-shaped Upload button, and wait for the upload to finish.
 
-Seeed's XIAO ESP32-C3 setup guide also confirms selecting XIAO_ESP32C3 from the ESP32 Arduino board list
+Seeed's XIAO ESP32-C3 setup guide also confirms selecting XIAO_ESP32C3 from the ESP32 Arduino board list.
