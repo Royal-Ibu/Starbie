@@ -9,7 +9,7 @@ Examples:
 - MCU configuration files
 
 ## Arduino IDE setup
-In Arduino IDE, open File → Preferences and add this to Additional Boards Manager URLs:
+To set-up the firmware, go to Arduino IDE, open File → Preferences and add this to Additional Boards Manager URLs:
 
 https://espressif.github.io/arduino-esp32/package_esp32_index.json
 Open Tools → Board → Boards Manager, search for esp32, and install esp32 by Espressif Systems.
@@ -24,6 +24,6 @@ Adafruit MPU6050
 DHT sensor library
 If Arduino asks to install dependencies, choose Install All.
 
-Open Starbie.ino, press the arrow-shaped Upload button, and wait for the upload to finish.
+Open Starbie_Kakashi.ino, press the arrow-shaped Upload button, and wait for the upload to finish.
 
 Seeed's XIAO ESP32-C3 setup guide also confirms selecting XIAO_ESP32C3 from the ESP32 Arduino board list.
