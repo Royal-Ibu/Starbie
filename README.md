@@ -26,7 +26,7 @@ Firmware/ contains one self-contained Arduino IDE sketch for the XIAO ESP32-C3. 
 | `Starbie.kicad_sch` | Circuit schematic |
 | `Starbie.kicad_pcb` | PCB layout |
 | `docs/images/` | PCB renders, screenshots, and build photos |
-| `manufacturing/` | Fabrication outputs such as Gerbers, drill files, and a bill of materials |
+| `manufacturing/` | Fabrication outputs such as Gerbers and drill files |
 
 ## Credits
 
