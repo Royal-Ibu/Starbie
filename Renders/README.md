@@ -1,6 +1,6 @@
 # Renders
 
-Upload renders, product images, visual mockups, and design previews here.
+Renders, product images, visual mockups, and design previews are uploaded here.
 
 Examples:
 - PNG/JPG screenshots
