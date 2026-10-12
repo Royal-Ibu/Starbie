@@ -1,6 +1,6 @@
 # Starbie Firmware
 
-Upload firmware source code, sketches, drivers, libraries, and related project code here.
+Firmware source code, sketches, drivers, libraries, and related project code is uploaded here.
 
 Examples:
 - Arduino or C/C++ source files
