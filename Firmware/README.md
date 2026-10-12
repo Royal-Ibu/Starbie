@@ -11,7 +11,8 @@ Examples:
 ## Arduino IDE setup
 To set-up the firmware, go to Arduino IDE, open File → Preferences and add this to Additional Boards Manager URLs:
 
-https://espressif.github.io/arduino-esp32/package_esp32_index.json
+```https://espressif.github.io/arduino-esp32/package_esp32_index.json```
+
 Open Tools → Board → Boards Manager, search for esp32, and install esp32 by Espressif Systems.
 
 Select Tools → Board → esp32 → XIAO_ESP32C3 and select the board's port under Tools → Port.
@@ -34,4 +35,4 @@ Seeed's XIAO ESP32-C3 setup guide also confirms selecting XIAO_ESP32C3 from the 
 - Shake: the only action that works naturally outside the menu.
 The normal screen is a wandering 32 x 32, one-bit version of the supplied character. NAP freezes it in place with drifting zs, PLAY runs two fast left-to-right-to-left laps with hearts, PET sends hearts upward, and other actions do a tiny side-to-side shake followed by a jump. A shake wakes a sleeping pet early. Values only appear on the stats screen.
 
-The final word in each menu line selects the visual reaction: NAP_REACTION, JUMP_REACTION, HEART_REACTION, or RUN_REACTION.
+The final word in each menu line selects the visual reaction: ```NAP_REACTION```, ```JUMP_REACTION```, ```HEART_REACTION```, or ```RUN_REACTION```.
