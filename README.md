@@ -1,19 +1,21 @@
 # Starbie
 
-This repository is for the Starbie project. Use it to store design files, schematics, project documents, and related assets.
+This repository is for the Starbie project. Use it to store PCB designs, firmware, renders, and related assets.
 
 ## Repository Structure
 
-- `schematics/` — schematic diagrams, PCB layouts, CAD exports, PDFs, and image files
-- `project-files/` — source files, BOMs, CAD models, assembly notes, and related project assets
+- `PCB/` — schematic diagrams, PCB layouts, CAD exports, PDFs, and Gerber files
+- `Firmware/` — firmware source code, libraries, and microcontroller files
+- `Renders/` — 3D renders, product images, and visual documentation
 - `docs/` — design notes, build instructions, and documentation
 
-## Uploading Schematics and Project Files
+## Uploading Files
 
-Please place all schematic and design-related files in the appropriate folders above:
+Please place all files in the appropriate folders above:
 
-- Schematics and PCB files: `schematics/`
-- Project files, source assets, and supporting materials: `project-files/`
+- PCB and schematic files: `PCB/`
+- Firmware and code: `Firmware/`
+- Visual renders and images: `Renders/`
 
 You can also add a short description in this README or in a document inside `docs/` to explain the design, revision, and usage.
 
@@ -22,12 +24,15 @@ You can also add a short description in this README or in a document inside `doc
 ```text
 Starbie/
 ├── README.md
-├── schematics/
+├── PCB/
 │   ├── README.md
 │   └── ... schematic and PCB files here
-├── project-files/
+├── Firmware/
 │   ├── README.md
-│   └── ... project assets here
+│   └── ... firmware and source code here
+├── Renders/
+│   ├── README.md
+│   └── ... renders and images here
 ├── docs/
 │   └── ... documentation here
 └── ...
