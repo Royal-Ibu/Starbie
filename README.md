@@ -4,7 +4,8 @@ A custom printed circuit board designed in KiCad as part of [Hack Club's Half Li
 
 ## Take a look
 
-<img width="1318" height="745" alt="Screenshot 2026-10-11 165803" src="https://github.com/user-attachments/assets/7cf67175-2466-42ef-a4fb-29e890697044" />
+<img width="852" height="675" alt="Starbie Top" src="https://github.com/user-attachments/assets/d973a894-85eb-42e6-a5d3-fb24a9738f0e" />
+
 
 ## What it is
 Starbie is designed to sit on your desk, show its personality on a small display, and react to how you handle it. Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.
