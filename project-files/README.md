@@ -1,6 +1,6 @@
 # Project Files
 
-Upload project files, bill of materials, CAD files, source assets, and supporting materials here.
+Project files, bill of materials, CAD files, source assets, and supporting materials are uploaded here.
 
 Examples:
 - CAD project files
