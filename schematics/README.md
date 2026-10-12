@@ -1,6 +1,6 @@
 # Schematics
 
-Upload schematic files, PCB layouts, design exports, and related images here.
+All schematic files, PCB layouts, design exports, and related images are uploaded here.
 
 Examples:
 - `.sch` / `.kicad_sch`
