@@ -32,4 +32,4 @@ Firmware/ contains one self-contained Arduino IDE sketch for the XIAO ESP32-C3. 
 
 - **Hack Club Half Life** for the hardware-program context and project inspiration: [halflife.hackclub.com](https://halflife.hackclub.com/)
 - **KiCad** for the open-source electronics design tools: [kicad.org](https://www.kicad.org/)
-- **References and contributors:** @SharKingStudios for the Starbie beginner guide.
+- **References and contributors:** credit to @SharKingStudios for the Starbie beginner guide and README help.
