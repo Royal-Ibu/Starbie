@@ -1,39 +1,35 @@
-# Starbie
+# ⭐ Starbie
 
-This repository is for the Starbie project. Use it to store PCB designs, firmware, renders, and related assets.
+A custom printed circuit board designed in KiCad as part of [Hack Club's Half Life](https://halflife.hackclub.com/) hardware program. Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
 
-## Repository Structure
+## Take a look
 
-- `PCB/` — schematic diagrams, PCB layouts, CAD exports, PDFs, and Gerber files
-- `Firmware/` — firmware source code, libraries, and microcontroller files
-- `Renders/` — 3D renders, product images, and visual documentation
-- `docs/` — design notes, build instructions, and documentation
+<img width="1318" height="745" alt="Screenshot 2026-10-11 165803" src="https://github.com/user-attachments/assets/7cf67175-2466-42ef-a4fb-29e890697044" />
 
-## Uploading Files
+## What it is
+Starbie is designed to sit on your desk, show its personality on a small display, and react to how you handle it. Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.
 
-Please place all files in the appropriate folders above:
+The board includes a microcontroller, display, motion sensor, and environmental sensor in a compact PCB design. It is USB powered and built around beginner-friendly through-hole soldering for the add-on components.
 
-- PCB and schematic files: `PCB/`
-- Firmware and code: `Firmware/`
-- Visual renders and images: `Renders/`
+## Project status
+The PCB design, renders, and an Arduino starter firmware are included here. The default program is a two-eye pet with a tilt-controlled radial menu, hidden stats, and a shake reaction.
 
-You can also add a short description in this README or in a document inside `docs/` to explain the design, revision, and usage.
+## Software
+Firmware/ contains one self-contained Arduino IDE sketch for the XIAO ESP32-C3. Builders customize pins, menu actions, starting values, and motion settings together at the top of the sketch. The folder also includes a draggable browser simulator. See the firmware README for setup notes.
 
-## Example Layout
+## Project files
 
-```text
-Starbie/
-├── README.md
-├── PCB/
-│   ├── README.md
-│   └── ... schematic and PCB files here
-├── Firmware/
-│   ├── README.md
-│   └── ... firmware and source code here
-├── Renders/
-│   ├── README.md
-│   └── ... renders and images here
-├── docs/
-│   └── ... documentation here
-└── ...
-```
+
+| File or folder | What it contains |
+| --- | --- |
+| `Starbie.kicad_pro` | Main KiCad project file |
+| `Starbie.kicad_sch` | Circuit schematic |
+| `Starbie.kicad_pcb` | PCB layout |
+| `docs/images/` | PCB renders, screenshots, and build photos |
+| `manufacturing/` | Fabrication outputs such as Gerbers, drill files, and a bill of materials |
+
+## Credits
+
+- **Hack Club Half Life** for the hardware-program context and project inspiration: [halflife.hackclub.com](https://halflife.hackclub.com/)
+- **KiCad** for the open-source electronics design tools: [kicad.org](https://www.kicad.org/)
+- **References and contributors:** @SharKingStudios for the Starbie beginner guide.
