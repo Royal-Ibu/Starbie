@@ -27,3 +27,11 @@ If Arduino asks to install dependencies, choose Install All.
 Open Starbie_Kakashi.ino, press the arrow-shaped Upload button, and wait for the upload to finish.
 
 Seeed's XIAO ESP32-C3 setup guide also confirms selecting XIAO_ESP32C3 from the ESP32 Arduino board list.
+
+## Controls
+Button 1: open the radial menu. Tilt in an action's general direction to select its full sector, then press Button 1 again to select it.
+Button 2: show or hide the stats screen. It never changes the pet.
+Shake: the only action that works naturally outside the menu.
+The normal screen is a wandering 32 x 32, one-bit version of the supplied character. NAP freezes it in place with drifting zs, PLAY runs two fast left-to-right-to-left laps with hearts, PET sends hearts upward, and other actions do a tiny side-to-side shake followed by a jump. A shake wakes a sleeping pet early. Values only appear on the stats screen.
+
+The final word in each menu line selects the visual reaction: NAP_REACTION, JUMP_REACTION, HEART_REACTION, or RUN_REACTION.
