@@ -53,6 +53,9 @@ This bill of materials lists the components required to build Starbie, including
 | `.png` | PCB renders, screenshots, and build photos |
 | `.drl` | Fabrication outputs such as Gerbers and drill files |
 
+**Onshape Link
+https://cad.onshape.com/documents/60164e1b3f3b46142d9477b3/w/42d99681eb033265ebd186ab/e/ee3a2b709ba322aa884f1dc2
+
 ## Credits
 
 - **Hack Club Half Life** for the hardware-program context and project inspiration: [halflife.hackclub.com](https://halflife.hackclub.com/)
