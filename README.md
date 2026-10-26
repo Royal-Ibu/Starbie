@@ -1,6 +1,6 @@
 # ⭐ Starbie
 
-A custom printed circuit board designed in KiCad as part of [Hack Club's Half Life](https://halflife.hackclub.com/) hardware program. Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
+A custom printed circuit board designed in KiCad as part of [Hack Club's Half Life](https://halflife.hackclub.com/) hardware program. Starbie is a tiny star-shaped motion-controlled digital desk buddy with minimal gameplay buttons. Instead of just pressing controls, you interact with it by physically moving the board.
 
 ## Take a look
 
