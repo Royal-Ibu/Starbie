@@ -32,7 +32,7 @@ This bill of materials lists the components required to build Starbie, including
 | Custom PCB | Printed circuit board connecting the electronic components. | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | 0.96-inch OLED Display | OLED display used to show Starbie's interface and information. | 1 | $6.00 | $6.00 | [Amazon](https://www.amazon.com/dp/B0GBWXTR1Z?th=1) |
 | MPU6050 | Accelerometer and gyroscope module for measuring motion and rotation. | 1 | $7.00 | $7.00 | [Amazon](https://www.amazon.com/Wishiot-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B0C3LDTTBJ) |
-| Keycaps | Keycaps fitted onto the MX switches for physical user input. | 2 | $0.60 | $1.20 | *I had some spares lying around so I didn't add a supplier link but these are good: [Amazon] (https://www.amazon.com/Profile-Keycaps-Mechanical-Keyboard-Installation/dp/B0CNZJSBRZ/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.42489dc0-23c6-4615-8826-cd84282ad669%3Aamzn1.sym.42489dc0-23c6-4615-8826-cd84282ad669&cv_ct_cx=keycaps+cheap&keywords=keycaps+cheap&pd_rd_i=B0CNZJSBRZ&pd_rd_r=7dd3c511-a5be-4e19-8841-6df89664dd20&pd_rd_w=lWLCp&pd_rd_wg=ts5wz&pf_rd_p=42489dc0-23c6-4615-8826-cd84282ad669&pf_rd_r=XRSQBKPMWBJWSDXPJXAC&qid=1793025724&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-4-847e53e6-6a07-4024-a011-ba944385892f-spons&aref=mA4cj2Ly3U&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm&psc=1)|
+| Keycaps | Two keycaps taken from spare parts I already owned, so no additional purchase was needed for this build. | 2 | $0.60* | $1.20* | [Amazon](https://www.amazon.com/Profile-Keycaps-Mechanical-Keyboard-Installation/dp/B0CNZJSBRZ) |
 
 ### Cost Summary
 
